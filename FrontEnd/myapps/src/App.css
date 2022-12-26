@@ -1,0 +1,11 @@
+
+.myChoice{
+  list-style: none;
+  margin: 20rem 0;
+  padding: 0;
+}
+.myChoice li{
+  margin: 1rem 0;
+  border:1px solid #ccc;
+  padding: rem;
+}
